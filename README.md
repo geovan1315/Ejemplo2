@@ -1,4 +1,5 @@
 # Ejemplo2
-primera pagina de html
+
+PRIMERA PAGINA DE HTML
 
 en este proyecto se muestra caracteristicas principales de html
